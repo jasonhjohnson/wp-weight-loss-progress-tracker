@@ -1,0 +1,7 @@
+#gift-new-post label{display:inline-block;width:15%;}
+#gift-new-post input{width:30%;}
+#gift-new-post input[type="submit"]{margin-left:15%;width:30%;padding:7px;}
+#gift-new-post textarea{	display:inline-block;width:80%;vertical-align:top;}
+.simple-gift-error{border:1px solid #CC0000;border-radius:5px;background-color: #FFEBE8;margin: 0 0 16px 0px;padding: 12px;}
+.gift-notice{ border:1px solid #E6DB55;border-radius:5px;background-color: #FFFBCC;margin: 0 0 16px 0px;padding: 12px;}
+
